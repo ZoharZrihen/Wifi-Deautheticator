@@ -2,7 +2,7 @@
 ## Made by 
  Zohar Zrihen 316405505 <br />
  Yishay Garame 311236673 <br />
- Alon Perlmulter 205487747 <br />
+ Alon Perlmuter 205487747 <br />
  
 ## General Info and how to use
 ### 1. Run the program on Python3 with sudo permission like in the picture below.
